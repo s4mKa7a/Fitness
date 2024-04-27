@@ -415,7 +415,7 @@ body {
   text-decoration: underline;
   text-decoration-thickness: 3px;
 }
-@media (max-width: 1440px) {
+@media (max-width: 1590px) {
   #header img {
     margin-left: 130px;
   }
