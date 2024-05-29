@@ -223,7 +223,7 @@ body {
 
 #first-div:hover>div>h1 {
   text-align: start;
-  transform: translateX(45%);
+  transform: translateX(43%);
   transition: 1s;
 }
 
